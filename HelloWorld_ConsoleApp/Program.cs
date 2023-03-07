@@ -7,6 +7,7 @@
 			Console.WriteLine("the first one text part");
 			Console.WriteLine("the second one text part");
 			Console.WriteLine("the third one text part");
+			Console.WriteLine("the fourth one text part");
 		}
 	}
 }
