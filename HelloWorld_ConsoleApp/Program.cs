@@ -10,6 +10,7 @@
 			Console.WriteLine("the fourth one text part");
 			Console.WriteLine("another part of text");
 			Console.WriteLine("another one part of text");
+			Console.WriteLine("i hope it is last part of text");
 		}
 	}
 }
