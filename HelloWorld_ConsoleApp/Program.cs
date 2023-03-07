@@ -12,6 +12,7 @@
 			Console.WriteLine("another one part of text");
 			Console.WriteLine("i hope it is last part of text");
 			Console.WriteLine("is it last attempt?");
+			Console.WriteLine("I will try again");
 		}
 	}
 }
